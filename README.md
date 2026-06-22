@@ -314,7 +314,7 @@ Develop personalized retention campaigns for:
 
 ## Project Structure
 
-
+```
 Customer-Churn-Analysis/
 │
 ├── churn.ipynb
@@ -326,7 +326,7 @@ Customer-Churn-Analysis/
     ├── tenure_analysis.png
     ├── contract_analysis.png
     └── payment_method_analysis.png
-
+```
 
 ---
 
