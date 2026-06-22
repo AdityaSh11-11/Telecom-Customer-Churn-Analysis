@@ -318,14 +318,9 @@ Develop personalized retention campaigns for:
 Customer-Churn-Analysis/
 │
 ├── churn.ipynb
-├── customer_churn.csv
 ├── README.md
-│
-└── visualizations/
-    ├── churn_distribution.png
-    ├── tenure_analysis.png
-    ├── contract_analysis.png
-    └── payment_method_analysis.png
+└── Data/
+    ├── Customer Churn.csv
 ```
 
 ---
