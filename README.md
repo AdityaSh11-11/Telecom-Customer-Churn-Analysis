@@ -319,8 +319,8 @@ Customer-Churn-Analysis/
 │
 ├── churn.ipynb
 ├── README.md
-└── Report Summary/
-    ├── Customer Churn Analysis.pdf
+├── Report Summary/
+│   ├── Customer Churn Analysis.pdf
 └── Data/
     ├── Customer Churn.csv
 
